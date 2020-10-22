@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" entityID="https://crmqa1-mcafeecloudcrm.cs59.force.com/partners" validUntil="2030-09-10T06:39:09.707Z" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+   <md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+      <md:KeyDescriptor use="signing">
+         <ds:KeyInfo>
+            <ds:X509Data>
+               <ds:X509Certificate>MIIGmTCCBIGgAwIBAgIOAW0Q3NPqAAAAAAS+z0YwDQYJKoZIhvcNAQELBQAwgYox
+IjAgBgNVBAMMGVNlbGZTaWduZWRDZXJ0XzA4U2VwdDIwMTkxGDAWBgNVBAsMDzAw
+RG8wMDAwMDAwZFhWTTEXMBUGA1UECgwOU2FsZXNmb3JjZS5jb20xFjAUBgNVBAcM
+DVNhbiBGcmFuY2lzY28xCzAJBgNVBAgMAkNBMQwwCgYDVQQGEwNVU0EwHhcNMTkw
+OTA4MTIzMjUwWhcNMjEwOTA4MTIwMDAwWjCBijEiMCAGA1UEAwwZU2VsZlNpZ25l
+ZENlcnRfMDhTZXB0MjAxOTEYMBYGA1UECwwPMDBEbzAwMDAwMDBkWFZNMRcwFQYD
+VQQKDA5TYWxlc2ZvcmNlLmNvbTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzELMAkG
+A1UECAwCQ0ExDDAKBgNVBAYTA1VTQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCC
+AgoCggIBAIYNEGKS4IeCK/ZDzTXznglng9pC6laAu8SbLRRNxRMtCYKWevWtPf3x
+1Ty/6bBCIdp6khK30ZH/4H2IVM8enU4jIcGsqAW7hH6Z/IH21qrtNuNy6w6Nfbnu
+kwE+e+ap863PwFCrNKrMAeeKyR+3xTe5Q4V5RwTNkaa4nczoD5ua3JZD4Iosy1/q
+DOzX85+bwI7Py6TT/221eO9rr1+adT0NAZffVRrEQijwUYMJWAM2rHnpMYBzjMAh
+pOQg3WHUDMCD5wb+w8t6pGiemGWl3g1LQdRyhJ4f/Va6bHK52iqTiWOpzF8cVrUH
+BFSO7tj73ho8WeehrupIUPfXoWrhoirSc8xpNI5JYs09YCs6t977otnCnIQrIAiv
+zTdVKDWp1luR9N01Z8p1wD9HCeKYA1nrq5g5/6OK8ejggnJ9uksAjF3pF8Cszj8i
+gZx3T36JlXgTOlymoorGzeKd1OArI/NWFQrVl1uzOXDhTyZBPxj+WPTpjV9JTwKo
+gRbIYb4Dfq9Siw3v69+3ApJiuWENLm8cWtjrLSKHwoWhfZ54oMNekabyF0p9bPNv
+Jn6j40TufwL5zA5toQ+FFMJA3+l2FovFPcTLlT1o3D9LFRFm1CSbsfdPdUF4ZJwR
+gbaw/3DV44c863rEEWZ5jOwPb8BH/b24vqJ4yvQGyZcHZRiiTYvTAgMBAAGjgfow
+gfcwHQYDVR0OBBYEFOWobenRpUWJd5C1RySJy+f/rAAsMA8GA1UdEwEB/wQFMAMB
+Af8wgcQGA1UdIwSBvDCBuYAU5aht6dGlRYl3kLVHJInL5/+sACyhgZCkgY0wgYox
+IjAgBgNVBAMMGVNlbGZTaWduZWRDZXJ0XzA4U2VwdDIwMTkxGDAWBgNVBAsMDzAw
+RG8wMDAwMDAwZFhWTTEXMBUGA1UECgwOU2FsZXNmb3JjZS5jb20xFjAUBgNVBAcM
+DVNhbiBGcmFuY2lzY28xCzAJBgNVBAgMAkNBMQwwCgYDVQQGEwNVU0GCDgFtENzT
+6gAAAAAEvs9GMA0GCSqGSIb3DQEBCwUAA4ICAQAKlh6JXXzL1Dxwa03ZQgmrtqL4
+wTEylxdO2W8RhhtSkHh56baHJw+7UIRpAVfDAkOEhxg1Jv0p/yAWjzArzQf5RLcX
+k90jK7/CByhx/uwa8/UVgnyPmGyNxDHlPkj8Pc8cFTfrQs/rMG8tQz9G3Ms6V3gr
+bIysMY9Fh1YmosDxEZQwMnzgWJaulcSz2D20UNfStVBoCmHwESedxkTH9UkuLnuK
+uk7ENXf0KwqzfaR/tDhZh7c6MgOBOasKOW9Fn8LGlVVtyY++vtGZCnLe7XVIhcLp
+z/mNupCfnhnLwkch8P+y/OA3NIgHSZ7TbIw//YvJxI9JD2vvClvHTkKEp82jnOif
+QZGfTasiqMwyFyB3B/o1x8XWiI3vrEl4vaFLLA0hT2uDSwT6zFqlhDi5aRiAOBM9
+NOP5oB0EQ8ZcMQNFAABVCv8nMqYgjTGK6oa1rAkJ/Bj2ETy5x75NzTsvsh4n0rQQ
+cE83fhm4fhNB6N3+F0DxgEVnvRxdr4QfiuF5GVjIrHvsVtkK1LpIc+YCsYMqdNKz
+DtnEpq5Qx1R8QQogTjwWrDcqxJGxoaoousT7SAuT+WGDRT4Tboxy9SGwBWCIKiZZ
+uX6sj5q93uy9uVh5ECyyLiY9q55Kbo0tLF+JwmXGjSbHdwb6gJWeHVB+Hn61hFQC
+74tq8EljIL5qtjqn/Q==</ds:X509Certificate>
+            </ds:X509Data>
+         </ds:KeyInfo>
+      </md:KeyDescriptor>
+      <md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat>
+      <md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://mcafee--CRMQA1.my.salesforce.com?so=00D2C0000008aOD" index="0" isDefault="true"/>
+      <md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://crmqa1-mcafeecloudcrm.cs59.force.com/partners/login?so=00D2C0000008aOD" index="1"/>
+   </md:SPSSODescriptor>
+</md:EntityDescriptor>
